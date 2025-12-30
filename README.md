@@ -26,7 +26,7 @@ Passionate about building scalable systems with AWS, Docker, and CI/CD. Always l
 
 ### Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/harshada-patil)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>](https://www.linkedin.com/in/harshada-patil-06712b309)
 
 ### Languages and Tools:
 
@@ -59,7 +59,12 @@ Passionate about building scalable systems with AWS, Docker, and CI/CD. Always l
 - Exploring Infrastructure as Code with Terraform
 - Contributing to open-source DevOps projects
 
-
+### 📚 Learning Journey:
+- AWS Solutions Architecture
+- Kubernetes & Container Orchestration
+- Advanced Shell Scripting
+- Configuration Management with Ansible
+- Cloud Security Best Practices
 
 ### 💡 Fun Fact:
 Always excited to automate the boring stuff and make systems more efficient! 🚀

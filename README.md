@@ -6,7 +6,7 @@
 
 <p align="center">
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=28&duration=2000&pause=555&color=F75800FF&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=👋+Hello+Friends%2C+I+am+DevOps+and+Cloud+Engineer...!" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=28&duration=2000&pause=555&color=F75800FF&center=true&vCenter=true&width=1000&height=60&lines=👋+Hello%2C+I+am+Harshada+S.+Patil" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -90,18 +90,12 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/harshada137/multi-page-journal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=multi-page-journal&theme=dark&hide_border=true&border_radius=35" /></a>
-  <a href="https://github.com/harshada137/AWS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=AWS&theme=dark&hide_border=true&border_radius=35" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/harshada137/git-notes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=git-notes&theme=dark&hide_border=true&border_radius=35" /></a>
-  <a href="https://github.com/harshada137/Pintresty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=Pintresty&theme=dark&hide_border=true&border_radius=35" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/harshada137/VPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=VPC&theme=dark&hide_border=true&border_radius=35" /></a>
-  <a href="https://github.com/harshada137/To-Do-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=To-Do-App&theme=dark&hide_border=true&border_radius=35" /></a>
+  <a href="https://github.com/harshada137/multi-page-journal">multi-page-journal</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/harshada137/AWS">AWS</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/harshada137/git-notes">git-notes</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/harshada137/Pintresty">Pintresty</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/harshada137/VPC">VPC</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/harshada137/To-Do-App">To-Do-App</a>
 </p>
 
 <br>
@@ -111,9 +105,15 @@
 <br>
 <div align="center" dir="auto">
   <p align="center">
-    <a href="https://www.linkedin.com/in/harshada-patil-06712b309" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Connect-007bff?style=for-the-badge&labelColor=3b3b3b&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <br><br>
-    <a href="mailto:harshadap1204@gmail.com"><img src="https://img.shields.io/badge/EMAIL-harshadap1204@gmail.com-750008?style=for-the-badge&labelColor=3b3b3b&logo=gmail&logoColor=white" alt="Email" /></a>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/harshada-patil-06712b309" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=232F3E&style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:harshadap1204@gmail.com">
+      <img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=FF9900&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+</div>
   </p>
 </div>
 

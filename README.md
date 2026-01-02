@@ -1,70 +1,131 @@
-# Hi 👋, I'm Harshada Sharad Patil
+<meta name="google-site-verification" content="2JJtGJ4ktWcC6L7BAmjoUTizluyQHoGGoXkwfDFSxIU" />
 
-### A passionate DevOps Practitioner from India
+<!-- Banner Image - Commented for now -->
+<!-- <img width="2000" height="600" alt="image" src="https://github.com/user-attachments/assets/233da14b-246f-40f2-bc93-9790f582e088" /> -->
+<br><br>
 
-[![harshada137](https://komarev.com/ghpvc/?username=harshada137&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/harshada137)
-
-🎓 Final Year B.Tech CSE  
-☁️ Cloud & DevOps Enthusiast  
-Passionate about building scalable systems with AWS, Docker, and CI/CD. Always learning, always growing! 💻✨
-
-| Domain | Skills/Tools | Projects |
-| --- | --- | --- |
-| **Cloud** | AWS | - [AWS Infrastructure Projects](https://github.com/harshada137) |
-| **Server Configuration** | LAMP & LEMP Stack | - [LAMP-LEMP-AmezonLinux](https://github.com/harshada137/LAMP-LEMP-AmezonLinux) - [LAMP-LEMP-UBUNTU](https://github.com/harshada137/LAMP-LEMP-UBUNTU) - [LEMP-SHELL](https://github.com/harshada137/LEMP-SHELL) |
-| **Infrastructure as Code** | Terraform, Docker | - Working on AWS and Docker-based deployments |
-| **Server Templating** | Docker | - Container orchestration and deployment projects |
-| **CI/CD** | GitHub Actions, AWS CodePipeline | - Implementing automated deployment pipelines |
-| **Programming Languages** | - Python - Node.js - JavaScript | - [Full-Stack Registration Form](https://github.com/harshada137/forms) |
-| **Databases** | MySQL, PostgreSQL | - [SQL Commands for Cloud](https://github.com/harshada137/SQL) |
-| **Scripting** | - Bash/Shell - Python | - [Shell Scripting for LEMP](https://github.com/harshada137/LEMP-SHELL) |
-| **SCM** | GitHub, Git | - [GitHub Profile](https://github.com/harshada137) |
-| **Web Development** | HTML, CSS, JavaScript | - [Pintresty - Home Décor Website](https://github.com/harshada137/Pintresty) |
-| **Configuration Management** | Ansible | Learning and implementing |
-
-[![harshada137](https://komarev.com/ghpvc/?username=harshada137&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/harshada137)
-
-### Connect with me:
-
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>](https://www.linkedin.com/in/harshada-patil-06712b309)
-
-### Languages and Tools:
-
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<p align="center">
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=28&duration=2000&pause=555&color=F75800FF&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=👋+Hello+Friends%2C+I+am+DevOps+and+Cloud+Engineer...!" alt="Typing SVG" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshada137&show_icons=true&locale=en&layout=compact" alt="harshada137" /></p>
+<p align="center">
+  <!-- Resume Link - Commented for now -->
+  <!-- <a href="https://yourresume.pdf" target="_blank"><img src="https://img.shields.io/badge/See_My_Resume-pdf-FF4800?style=flat&logo=AdobePDF&logoColor=white" alt="See My Resume" /></a> -->
+  <img src="https://komarev.com/ghpvc/?username=harshada137&label=Profile%20Visits&color=FF4800&style=flat&size=35" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshada137&show_icons=true&locale=en" alt="harshada137" /></p>
+## 💻 `Tech Stack`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshada137&" alt="harshada137" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
+
+## `My Projects`
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Sr. No.</th>
+      <th>Project Name</th>
+      <th>Tech Stack</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>Auto Reply AI Chatbot</td>
+      <td>Python, OpenAI API, LangChain</td>
+      <td>
+        <a href="https://github.com/harshada137/Deployment-of-a-Three-Tier-Application-on-AWS-EKS.git">View Project</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Shell Script for Linux User Management & Backup</td>
+      <td>Shell Script, Linux</td>
+      <td>
+        <a href="https://github.com/harshada137/user-managment.git">View Project</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Production-Ready Multi-Tier Infrastructure</td>
+      <td>Terraform, Ansible, AWS (EC2, RDS, S3)</td>
+      <td>
+        <a href="https://github.com/harshada137/Production-Ready-Infrastructure-using-Terraform-and-Ansible.git">View Project</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Two-Tier Flask Web App – Dockerized Deployment</td>
+      <td>Flask, MySQL, Docker, Docker Compose</td>
+      <td>
+        <a href="https://github.com/harshada137/sudo-speak.git">View Project</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+## 📈 My Progress
+
+[<img width="85" height="85" alt="HackerRank_Icon-1000px" src="https://github.com/user-attachments/assets/32213ce4-7cdb-4748-81f2-23d745402f58" />](https://www.hackerrank.com/profile/harshadap1204)
+
+## 📂 `My Top Repos`
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/harshada137/multi-page-journal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=multi-page-journal&theme=dark&hide_border=true&border_radius=35" /></a>
+  <a href="https://github.com/harshada137/AWS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=AWS&theme=dark&hide_border=true&border_radius=35" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harshada137/git-notes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=git-notes&theme=dark&hide_border=true&border_radius=35" /></a>
+  <a href="https://github.com/harshada137/Pintresty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=Pintresty&theme=dark&hide_border=true&border_radius=35" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/harshada137/VPC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=VPC&theme=dark&hide_border=true&border_radius=35" /></a>
+  <a href="https://github.com/harshada137/To-Do-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=harshada137&repo=To-Do-App&theme=dark&hide_border=true&border_radius=35" /></a>
+</p>
+
+<br>
+
+## 🌐 `Connect With Me`
+
+<br>
+<div align="center" dir="auto">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/harshada-patil-06712b309" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Connect-007bff?style=for-the-badge&labelColor=3b3b3b&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <br><br>
+    <a href="mailto:harshadap1204@gmail.com"><img src="https://img.shields.io/badge/EMAIL-harshadap1204@gmail.com-750008?style=for-the-badge&labelColor=3b3b3b&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-### 🎯 Current Focus:
-- Building scalable cloud infrastructure with AWS
-- Mastering Docker containerization and orchestration
-- Implementing CI/CD pipelines for automated deployments
-- Exploring Infrastructure as Code with Terraform
-- Contributing to open-source DevOps projects
+<p align="center">
+  💡 <strong>"Focus on the practice, not the performance."</strong>
+</p>
 
-### 📚 Learning Journey:
-- AWS Solutions Architecture
-- Kubernetes & Container Orchestration
-- Advanced Shell Scripting
-- Configuration Management with Ansible
-- Cloud Security Best Practices
-
-### 💡 Fun Fact:
-Always excited to automate the boring stuff and make systems more efficient! 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshada137&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+  <a href="https://github.com/harshada137?tab=followers">
+    <img src="https://img.shields.io/github/followers/harshada137?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+</p>

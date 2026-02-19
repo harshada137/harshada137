@@ -49,7 +49,7 @@
       <td>Auto Reply AI Chatbot</td>
       <td>Python, OpenAI API, LangChain</td>
       <td>
-        <a href="https://github.com/harshada137/Deployment-of-a-Three-Tier-Application-on-AWS-EKS.git">View Project</a>
+        <a href="https://github.com/harshada137/Chat-Bot">View Project</a>
       </td>
     </tr>
     <tr>

@@ -1,95 +1,110 @@
 <meta name="google-site-verification" content="2JJtGJ4ktWcC6L7BAmjoUTizluyQHoGGoXkwfDFSxIU" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:14B8A6&height=200&section=header&text=Harshada%20Patil&fontSize=46&fontColor=E2E8F0&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20Infrastructure%20Engineer&descAlignY=58&descSize=18&descColor=38BDF8&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshada-patil-06712b309"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=flat-square&logo=linkedin&logoColor=38BDF8" /></a>
-  <a href="mailto:harshadap1204@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=flat-square&logo=gmail&logoColor=34D399" /></a>
-  <a href="https://www.hackerrank.com/profile/harshadap1204"><img src="https://img.shields.io/badge/HackerRank-0B1120?style=flat-square&logo=hackerrank&logoColor=F59E0B" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F5D4&height=180&section=header&text=Harshada%20Patil&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38" width="100%" />
+
+</div>
 
 <br>
 
-```yaml
-apiVersion: v1
-kind: Engineer
-metadata:
-  name: harshada-patil
-  role: devops-cloud-infra
-status:
-  phase: Running
-  clusters: [production, dev]
-  focus: [EKS, Kubernetes, CI/CD, Terraform]
+<div align="center">
+
 ```
 
-<br>
+$ whoami
+> Harshada Patil — cloud tinkerer, terminal dweller
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+$ cat interests.txt
+> AWS · Kubernetes · Python · the occasional 3am incident
 
-**⚙️ core**
-<br>
-<img src="https://img.shields.io/badge/AWS-0B1120?style=flat-square&logo=amazon-aws&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Kubernetes-0B1120?style=flat-square&logo=kubernetes&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Terraform-0B1120?style=flat-square&logo=terraform&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Docker-0B1120?style=flat-square&logo=docker&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Ansible-0B1120?style=flat-square&logo=ansible&logoColor=EF4444" />
+$ echo $STATUS
+> currently keeping an EKS cluster alive and (mostly) happy
 
-</td>
-<td valign="top" width="50%">
+```
 
-**🔩 tooling**
-<br>
-<img src="https://img.shields.io/badge/GitHub_Actions-0B1120?style=flat-square&logo=github-actions&logoColor=E2E8F0" />
-<img src="https://img.shields.io/badge/Linux-0B1120?style=flat-square&logo=linux&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=34D399" />
-<img src="https://img.shields.io/badge/Flask-0B1120?style=flat-square&logo=flask&logoColor=E2E8F0" />
-<img src="https://img.shields.io/badge/MySQL-0B1120?style=flat-square&logo=mysql&logoColor=38BDF8" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h3 align="center">deployments</h3>
-
-<table align="center">
-<tr><th align="left">name</th><th align="left">stack</th><th align="left">status</th></tr>
-<tr><td><a href="https://github.com/harshada137/Production-Ready-Infrastructure-using-Terraform-and-Ansible.git">infra-multi-tier</a></td><td>Terraform · Ansible · AWS</td><td>🟢 live</td></tr>
-<tr><td><a href="https://github.com/harshada137/sudo-speak.git">flask-docker-app</a></td><td>Flask · MySQL · Docker</td><td>🟢 live</td></tr>
-<tr><td><a href="https://github.com/harshada137/Chat-Bot">ai-chatbot</a></td><td>Python · OpenAI · LangChain</td><td>🟢 live</td></tr>
-<tr><td><a href="https://github.com/harshada137/user-managment.git">linux-automation</a></td><td>Shell · Linux</td><td>🟢 live</td></tr>
-</table>
+</div>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshada137&show_icons=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=34D399&text_color=94A3B8&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshada137&hide_border=true&background=0B1120&stroke=0B1120&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&sideNums=E2E8F0&dates=64748B" height="160" />
+  <a href="https://www.linkedin.com/in/harshada-patil-06712b309" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4" />
+  </a>
+  <a href="mailto:harshadap1204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5D4" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/harshadap1204" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00F5D4" />
+  </a>
 </p>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=kubectl+apply+-f+career.yaml;terraform+plan+%E2%86%92+life+decisions;deploying+reliability%2C+one+cluster+at+a+time" />
+
+</div>
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28"> Stack
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&bg_color=0B1120&color=38BDF8&line=14B8A6&point=F59E0B&hide_border=true&area=true" width="90%" />
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=7B42BC" />
+  <img src="https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=EE0000" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=github-actions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" />
 </p>
 
 <br>
 
-<p align="center"><sub>
-<a href="https://github.com/harshada137/multi-page-journal">multi-page-journal</a> ·
-<a href="https://github.com/harshada137/AWS">AWS</a> ·
-<a href="https://github.com/harshada137/git-notes">git-notes</a> ·
-<a href="https://github.com/harshada137/Pintresty">Pintresty</a> ·
-<a href="https://github.com/harshada137/VPC">VPC</a> ·
-<a href="https://github.com/harshada137/To-Do-App">To-Do-App</a>
-</sub></p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"> Projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshada137&label=views&color=0B1120&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/harshada137?label=followers&style=flat-square&color=0B1120&labelColor=0B1120" />
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0B1120&height=100&section=footer" />
+| | |
+|:--:|:--|
+| 🔧 | **[Production-Ready Infra](https://github.com/harshada137/Production-Ready-Infrastructure-using-Terraform-and-Ansible.git)** · Terraform + Ansible on AWS |
+| 🐳 | **[Flask + Docker App](https://github.com/harshada137/sudo-speak.git)** · Dockerized two-tier deployment |
+| 🤖 | **[AI Chatbot](https://github.com/harshada137/Chat-Bot)** · OpenAI API + LangChain |
+| 🐧 | **[Linux Automation](https://github.com/harshada137/user-managment.git)** · user mgmt & backup scripts |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshada137&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshada137&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=E6EDF3" width="90%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+[multi-page-journal](https://github.com/harshada137/multi-page-journal) · [AWS](https://github.com/harshada137/AWS) · [git-notes](https://github.com/harshada137/git-notes) · [Pintresty](https://github.com/harshada137/Pintresty) · [VPC](https://github.com/harshada137/VPC) · [To-Do-App](https://github.com/harshada137/To-Do-App)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=harshada137&label=Profile%20views&color=00F5D4&style=flat-square" />
+<a href="https://github.com/harshada137?tab=followers"><img src="https://img.shields.io/github/followers/harshada137?label=Follow&style=social" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:0D1117&height=100&section=footer" width="100%" />

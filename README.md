@@ -54,7 +54,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="24"> `[BUILD]` toolchain.yaml
+## ⚙️ `[BUILD]` toolchain.yaml
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="24"> `[DEPLOY]` deployments
+## 🚀 `[DEPLOY]` deployments
 
 <div align="center">
 
@@ -91,7 +91,7 @@ $ kubectl get deployments
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="24"> `[MONITOR]` cluster metrics
+## 📊 `[MONITOR]` cluster metrics
 
 <div align="center">
 

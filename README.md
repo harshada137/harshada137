@@ -10,29 +10,14 @@
 
 <div align="center">
 
-<table>
-<tr><td>
+### ☁️ Cloud Tinkerer · Kubernetes Wrangler · Occasional 3am Firefighter
 
-```
+<sub>Building and keeping infrastructure alive, one cluster at a time.</sub>
 
-┌─[ system boot ]───────────────────────────────────────────┐
-│                                                            │
-│  $ whoami                                                 │
-│  > Harshada Patil — cloud tinkerer, terminal dweller       │
-│                                                            │
-│  $ cat interests.txt                                      │
-│  > AWS · Kubernetes · Python · the occasional 3am incident │
-│                                                            │
-│  $ echo $STATUS                                            │
-│  > keeping an EKS cluster alive and (mostly) happy         │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+<br><br>
 
-```
-
-</td></tr>
-</table>
-
+<img src="https://img.shields.io/badge/Role-DevOps%20Engineer-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Focus-AWS%20·%20Kubernetes%20·%20Python-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22&logoColor=00F5D4" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5D4?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>

@@ -106,9 +106,10 @@ $ watch -n 5 github-stats --user harshada137
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshada137&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" height="165" />
 <!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=E6EDF3" width="90%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=E6EDF3&v=3" width="90%" />
 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=E6EDF3&v=3" width="90%" />
-
 </div>
 
 <br>

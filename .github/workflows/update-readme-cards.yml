@@ -1,0 +1,44 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # runs daily at 03:00 UTC
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main               # regenerate right away whenever you push
+
+permissions:
+  contents: write
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 1. Generate the main stats card as a static SVG committed to this repo
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=harshada137&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Generate the streak card as a static SVG committed to this repo
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=harshada137&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&disable_animations=true
+          path: assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Commit the generated SVGs back to the repo
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/streak.svg
+          git commit -m "Update stats and streak cards" || echo "No changes to commit"
+          git push

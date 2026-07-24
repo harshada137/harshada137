@@ -95,18 +95,16 @@ $ kubectl get deployments
 
 <div align="center">
 
-\`\`\`
+```
 $ watch -n 5 github-stats --user harshada137
-\`\`\`
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshada137&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" height="165" />
-<!--
-<img src="https://streak-stats.demolab.com?user=harshada137&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4" height="165" />
--->
-<img src="https://streak-stats.demolab.com?user=harshada137&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&r=20260723" height="165" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshada137&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" height="165" />
+<!-- Self-hosted: generated daily by .github/workflows/update-readme-cards.yml and committed to this repo. No external caching involved. -->
+<img src="https://raw.githubusercontent.com/harshada137/harshada137/main/assets/stats.svg" height="165" />
+<img src="https://raw.githubusercontent.com/harshada137/harshada137/main/assets/streak.svg" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=E6EDF3&v=4" width="90%" />
+<!-- No self-host action exists for this widget yet, so cache_seconds is used to force frequent refreshes from the hosted service. -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=E6EDF3&cache_seconds=3600" width="90%" />
 
 </div>
 <br>

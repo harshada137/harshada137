@@ -111,7 +111,7 @@ $ watch -n 5 github-stats --user harshada137
 -->
 <img
   width="850"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&bg_color=0D1117&color=E6EDF3&line=00F5D4&point=00F5D4&hide_border=true"
+  src="https://YOUR-PROJECT.vercel.app/graph?username=harshada137&bg_color=0D1117&color=E6EDF3&line=00F5D4&point=00F5D4&hide_border=true"
 />
 
 

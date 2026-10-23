@@ -104,6 +104,12 @@ $ watch -n 5 github-stats --user harshada137
   width="100%"
 />
 
+<img
+  src="profile-3d-contrib/profile-night-green.svg"
+  alt="Harshada's GitHub Contribution Graph"
+  width="100%"
+/>
+
 </div>
 
 <br>

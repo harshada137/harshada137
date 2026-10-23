@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="2JJtGJ4ktWcC6L7BAmjoUTizluyQHoGGoXkwfDFSxIU" />
+ <meta name="google-site-verification" content="2JJtGJ4ktWcC6L7BAmjoUTizluyQHoGGoXkwfDFSxIU" />
 
 <div align="center">
 
@@ -42,13 +42,25 @@
 
 <div align="center">
 
-```
+```text
 ┌────────────┐        ┌────────────┐        ┌────────────┐
 │   BUILD    │  ───▶  │   DEPLOY   │  ───▶  │   MONITOR  │
 └────────────┘        └────────────┘        └────────────┘
 ```
 
 </div>
+
+<br>
+
+## 👩‍💻 `[ABOUT]` whoami.md
+
+I'm a DevOps Engineer interested in building reliable infrastructure, automating deployments, and simplifying cloud operations.
+
+- ☁️ Working with AWS cloud infrastructure and deployment workflows.
+- ⚙️ Exploring Infrastructure as Code with Terraform and Ansible.
+- 🐳 Working with Docker, Kubernetes, Linux, and CI/CD pipelines.
+- 🐍 Using Python and scripting to automate repetitive tasks.
+- 🚀 Focused on continuous learning, troubleshooting, and improving deployment reliability.
 
 <br>
 
@@ -68,22 +80,22 @@
 
 <br>
 
-## 🚀 `[DEPLOY]` deployments
+## 🚀 `[DEPLOY]` featured deployments
 
 <div align="center">
 
-```
+```text
 $ kubectl get deployments
 ```
 
-| name | status | stack | |
-|:--|:--:|:--|:--:|
-| 🔧 `production-ready-infra` | ✅ live | Terraform · Ansible · AWS | [→ repo](https://github.com/harshada137/Production-Ready-Infrastructure-using-Terraform-and-Ansible.git) |
-| 🐳 `flask-docker-app` | ✅ live | Flask · Docker | [→ repo](https://github.com/harshada137/sudo-speak.git) |
-| 🤖 `ai-chatbot` | ✅ live | OpenAI API · LangChain | [→ repo](https://github.com/harshada137/Chat-Bot) |
-| 🐧 `linux-automation` | ✅ live | Bash · Cron | [→ repo](https://github.com/harshada137/user-managment.git) |
-
 </div>
+
+| project | status | stack | repository |
+|:--|:--:|:--|:--:|
+| 🔧 **Production-Ready Infrastructure** | ✅ | Terraform · Ansible · AWS | [→ View repo](https://github.com/harshada137/Production-Ready-Infrastructure-using-Terraform-and-Ansible.git) |
+| 🐳 **Flask Docker App** | ✅ | Flask · Docker | [→ View repo](https://github.com/harshada137/sudo-speak.git) |
+| 🤖 **AI Chatbot** | ✅ | OpenAI API · LangChain | [→ View repo](https://github.com/harshada137/Chat-Bot) |
+| 🐧 **Linux Automation** | ✅ | Bash · Cron | [→ View repo](https://github.com/harshada137/user-managment.git) |
 
 <br>
 
@@ -91,7 +103,7 @@ $ kubectl get deployments
 
 <div align="center">
 
-```
+```text
 $ watch -n 5 github-stats --user harshada137
 ```
 
@@ -117,11 +129,31 @@ $ watch -n 5 github-stats --user harshada137
 
 <br>
 
+## 💡 `[MINDSET]` operating principles
+
 <div align="center">
+
+`Automate the repeatable` · `Monitor what matters` · `Document the fix` · `Keep learning`
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Building reliable infrastructure, automating deployments, and learning something new every day.**
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=harshada137&label=Profile%20views&color=00F5D4&style=flat-square" />
 <a href="https://github.com/harshada137?tab=followers"><img src="https://img.shields.io/github/followers/harshada137?label=Follow&style=social" /></a>
 
+<br><br>
+
+<a href="https://github.com/harshada137">Explore my repositories →</a>
+
 </div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:0D1117&height=100&section=footer" width="100%" />

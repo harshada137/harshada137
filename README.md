@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="2JJtGJ4ktWcC6L7BAmjoUTizluyQHoGGoXkwfDFSxIU" />
+ <meta name="google-site-verification" content="2JJtGJ4ktWcC6L7BAmjoUTizluyQHoGGoXkwfDFSxIU" />
 
 <div align="center">
 
@@ -27,13 +27,13 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/harshada-patil-06712b309" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4" />
 </a>
 <a href="mailto:harshadap1204@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5D4" />
 </a>
 <a href="https://www.hackerrank.com/profile/harshadap1204" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00F5D4" />
 </a>
 
 </div>
@@ -43,11 +43,9 @@
 <div align="center">
 
 ```
-
 ┌────────────┐        ┌────────────┐        ┌────────────┐
 │   BUILD    │  ───▶  │   DEPLOY   │  ───▶  │   MONITOR  │
 └────────────┘        └────────────┘        └────────────┘
-
 ```
 
 </div>
@@ -75,9 +73,7 @@
 <div align="center">
 
 ```
-
 $ kubectl get deployments
-
 ```
 
 | name | status | stack | |
@@ -102,20 +98,14 @@ $ watch -n 5 github-stats --user harshada137
 <img src="https://github-readme-stats.vercel.app/api?username=harshada137&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&cache_seconds=3600" height="165" />
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=harshada137&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&cache_seconds=3600" height="165" />
 
-<!--
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=00F5D4&point=E6EDF3&cache_seconds=3600" width="90%" />
-
 <img
-  width="850"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&bg_color=0D1117&color=E6EDF3&line=00F5D4&point=00F5D4&area=true&area_color=00F5D4&hide_border=true&title_color=00F5D4&custom_title=GitHub%20Contribution%20Graph"/>
--->
-<img
-  width="850"
-  src="https://YOUR-PROJECT.vercel.app/graph?username=harshada137&bg_color=0D1117&color=E6EDF3&line=00F5D4&point=00F5D4&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&bg_color=0D1117&color=E6EDF3&line=00F5D4&point=00F5D4&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph"
+  alt="Harshada's GitHub Contribution Activity Graph"
+  width="100%"
 />
 
-
 </div>
+
 <br>
 
 <details>

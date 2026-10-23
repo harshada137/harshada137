@@ -1,4 +1,4 @@
- <meta name="google-site-verification" content="2JJtGJ4ktWcC6L7BAmjoUTizluyQHoGGoXkwfDFSxIU" />
+<meta name="google-site-verification" content="2JJtGJ4ktWcC6L7BAmjoUTizluyQHoGGoXkwfDFSxIU" />
 
 <div align="center">
 
@@ -97,18 +97,6 @@ $ watch -n 5 github-stats --user harshada137
 
 <img src="https://github-readme-stats.vercel.app/api?username=harshada137&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&cache_seconds=3600" height="165" />
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=harshada137&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&cache_seconds=3600" height="165" />
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=harshada137&bg_color=0D1117&color=E6EDF3&line=00F5D4&point=00F5D4&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph"
-  alt="Harshada's GitHub Contribution Activity Graph"
-  width="100%"
-/>
-
-<img
-  src="profile-3d-contrib/profile-night-green.svg"
-  alt="Harshada's GitHub Contribution Graph"
-  width="100%"
-/>
 
 </div>
 
